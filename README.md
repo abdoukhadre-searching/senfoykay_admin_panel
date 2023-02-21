@@ -1,5 +1,3 @@
-# Admin Web Portal
+# senfoykay_admin_panel
 
-
-
-![alt text](https://github.com/taydinadnan/BringApp-Delivery-service-app/blob/main/admin_livraison_jouets/ss/adnan%20admin%20web%20panel.jpg?raw=true)
+![webportal_admin](https://user-images.githubusercontent.com/80549619/220224829-b7578b43-19e9-43c4-8433-c9c6c532d57b.png)
